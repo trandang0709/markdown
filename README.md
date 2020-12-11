@@ -1,7 +1,5 @@
-# markdown
-
 Block Elements
-Headers 見出し
+Headers đầu dòng
 Thêm dấu # vào đầu dòng. sẽ tạo được bậc
 # Bậc 1
 ## Bậc 2
