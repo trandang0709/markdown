@@ -50,3 +50,6 @@ Result
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 | <ul><li>item1</li><li>item2</li></ul>| See the list | from the first column|
+
+Nguồn: https://stackoverflow.com/questions/19950648/how-to-write-lists-inside-a-markdown-table
+
