@@ -31,5 +31,22 @@ Dòng 1
 
 Dòng 2
 
-https://guides.github.com/features/mastering-markdown/
-https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax
+https://guides.github.com/features/mastering-markdown/  
+https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax  
+
+List in table  
+```
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+| <ul><li>item1</li><li>item2</li></ul>| See the list | from the first column|
+```
+Result  
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+| <ul><li>item1</li><li>item2</li></ul>| See the list | from the first column|
